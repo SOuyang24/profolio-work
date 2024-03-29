@@ -18,12 +18,12 @@ export default function AboutMe() {
   switch (category) {
     case "frontend":
       description = userData.description.frontend
-      techstacks = userData.techstacks.filter(item => ["javascript", "frontend"].includes(item.tag))
+      techstacks = userData.techstacks.filter(item => ["javascript", "frontend", "fullstack"].includes(item.tag))
       console.log("tech",techstacks);
       break;
     case "javascript_backend":
       description = userData.description.javascript_backend
-      techstacks = userData.techstacks.filter(item => ["javascript", "backend"].includes(item.tag))
+      techstacks = userData.techstacks.filter(item => ["javascript", "backend", "fullstack"].includes(item.tag))
       break;
     case "javascript_fullstack":
       description = userData.description.javascript_fullstack
