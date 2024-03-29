@@ -61,7 +61,6 @@ const userData = {
       tag: "java",
       imageUrl: `${techStackIconBaseURL}/Java-Dark.svg`,
     },
-
     {
       id: "css",
       name: "CSS",
@@ -121,6 +120,12 @@ const userData = {
       name: "D3",
       tag: "frontend",
       imageUrl: `${techStackIconBaseURL}/D3-Dark.svg`,
+    },
+    {
+      id: "chartjs",
+      name: "Chart.js",
+      tag: "frontend",
+      imageUrl: `${techStackIconBaseURL}/Chartjs.svg`,
     },
     {
       id: "figma",
@@ -282,6 +287,18 @@ const userData = {
       name: "Github Actions",
       tag: "fullstack",
       imageUrl: `${techStackIconBaseURL}/GithubActions-Dark.svg`,
+    },
+    {
+      id: "playwright",
+      name: "Playwright",
+      tag: "fullstack",
+      imageUrl: `${techStackIconBaseURL}/Playwright.svg`,
+    },
+    {
+      id: "postman",
+      name: "Postman",
+      tag: "fullstack",
+      imageUrl: `${techStackIconBaseURL}/Postman.svg`,
     }
   ],
   favouriteProjects: [
