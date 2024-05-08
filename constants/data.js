@@ -74,6 +74,24 @@ const userData = {
       imageUrl: `${techStackIconBaseURL}/Sass.svg`,
     },
     {
+      id: "tanstackquery",
+      name: "TanStackQuery",
+      tag: "frontend",
+      imageUrl: `${techStackIconBaseURL}/TanStack.png`,
+    },
+    {
+      id: "optimizely",
+      name: "Optmizely",
+      tag: "frontend",
+      imageUrl: `${techStackIconBaseURL}/Optimizely.png`,
+    },
+    {
+      id: "launchdarkly",
+      name: "LaunchDarkly",
+      tag: "frontend",
+      imageUrl: `${techStackIconBaseURL}/launchdarkly.svg`,
+    },
+    {
       id: "Spring Boot",
       name: "Spring",
       tag: "java",
