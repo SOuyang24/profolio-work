@@ -432,7 +432,7 @@ const userData = {
   ],
   description: {
     frontend: [
-      `With a keen focus on crafting exceptional user experiences, I excel in building and optimizing responsive websites and mobile applications with cutting-edge modern technologies and frameworks. `,`Leveraging my expertise in JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI, I seamlessly integrate advanced state management with Redux, React Context and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.
+      `With a keen focus on crafting exceptional user experiences, I excel in building and optimizing responsive websites and mobile applications with cutting-edge modern technologies and frameworks. `,`Leveraging my expertise in JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI, Bootstrap, Ant Design, I seamlessly integrate advanced state management with Redux, React Context, TanStack Query and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.
       `,
       `Beyond technical expertise, I bring a deep understanding of UI/UX design principles to the table. I Collaborate closely with designers and transform design prototype into visually appealing interfaces using UI frameworks including Tailwind, Ant Design, React Native Paper, and Material UI.`,
       'Meanwhile, I helped the team to improve the CI/CD flow through test automation integration using Jest, React Testing Library and Playwright with Jenkins and Github Actions for pipelines setup.'
@@ -446,7 +446,7 @@ const userData = {
     javascript_fullstack: [
       `With a keen focus on crafting exceptional user experiences, I excel in building and optimizing responsive web and mobile applications with cutting-edge modern technologies and frameworks.`,
       `Regarding backend skills, I am proficient in building scalable, performant and secure API using JavaScript and TypeScript, Express.js, Node.js, Apollo GraphQL with microservies, messaging queue and serverless architectures`,
-      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
+      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context, TanStack Query and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
       `In addition to techical expertise, I am recognized for strong leadership via fostering teamwork and collaboration among teams and clients. I prioritize transparent communication with colleagues, cross-functional teams, leadership, and clients to ensure the successful delivery of projects with the highest quality.`
     ],
     python_backend: [
@@ -458,7 +458,7 @@ const userData = {
     python_fullstack: [
       `With a keen focus on crafting exceptional user experiences, I excel in building and optimizing web services with cutting-edge modern technologies and frameworks.`,
       `Regarding backend skills, I am proficient in building scalable, performant and secure Restful or GraphQL API using Python, Django, Postgres and DynamoDB with microservies, messaging queue and serverless architectures`,
-      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
+      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context, TanStack Query and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
       `In addition to techical expertise, I am recognized for strong leadership via fostering teamwork and collaboration among teams and clients. I prioritize transparent communication with colleagues, cross-functional teams, leadership, and clients to ensure the successful delivery of projects with the highest quality.`
     ],
     java_backend: [
@@ -471,7 +471,7 @@ const userData = {
     java_fullstack: [
       `With a keen focus on crafting exceptional user experiences, I excel in building and optimizing web services with cutting-edge modern technologies and frameworks.`,
       `Regarding backend skills, I am proficient in building scalable, performant and secure Restful or GraphQL API using Java, Spring Boot, Spring Cloud, Postgres and DynamoDB with microservies, messaging queue and serverless architectures`,
-      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
+      `Regarding frontend skills, I mainly use JavaScript, TypeScript, CSS, Sass, HTML and frameworks including React.js, React Native, Next.js, MUI. I seamlessly integrate advanced state management with Redux, React Context, TanStack Query and Apollo Reactive Variables, data visualization with D3, Chart.js and HighCharts ensuring interactive, smooth and efficient application flow.`,
       `In addition to techical expertise, I am recognized for strong leadership via fostering teamwork and collaboration among teams and clients. I prioritize transparent communication with colleagues, cross-functional teams, leadership, and clients to ensure the successful delivery of projects with the highest quality.`
     ]
   },
@@ -504,7 +504,28 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.4 - Present",
       companyLink: "https://bcg.com",
-      desc: "Oversaw and incorporated observability tools including Amplitude and Google Analytics for Ascension informing data-driven decisions to improve the user experience, resulting in 30% increase on customer engagement.",
+      desc: "Collaborated with PM and initial customers via A/B testing strategies using LaunchDarkly for ecommerce startup Return Bear to drive conversion rate improvements via feature flags, resulting in a 50% increase in conversion rate.",
+    },
+    {
+      title: "Founding Engineer",
+      company: "Boston Consulting Group",
+      year: "2019.4 - Present",
+      companyLink: "https://bcg.com",
+      desc: "Designed and implemented AI-powered appointment booking management feature for Ascension using Next.js, Nest.js, Postgres, Pinecone, Kafka, AWS, resulted in 30% increase on feedback rating on booking management.",
+    },
+     {
+      title: "Founding Engineer",
+      company: "Boston Consulting Group",
+      year: "2019.4 - Present",
+      companyLink: "https://bcg.com",
+      desc: "Initiated and presented the pre-commit hook best practices on React via Husky, Eslint, Pretty and Slack webhook to the engineering team lunch-and-learn session and increased the developer productivity by 70% in average for multiple teams.",
+    },
+    {
+      title: "Founding Engineer",
+      company: "Boston Consulting Group",
+      year: "2019.4 - Present",
+      companyLink: "https://bcg.com",
+      desc: "Led the internal developer portal in a team of 5 engineers for National Grid to increase the team collaboration, project visibility and tech documentation among 60 engineering teams, resulted in onboarding process from two week to 1 day.",
     },
     {
       title: "Founding Engineer",
