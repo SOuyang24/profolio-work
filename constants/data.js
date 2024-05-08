@@ -80,12 +80,6 @@ const userData = {
       imageUrl: `${techStackIconBaseURL}/TanStack.png`,
     },
     {
-      id: "optimizely",
-      name: "Optmizely",
-      tag: "frontend",
-      imageUrl: `${techStackIconBaseURL}/Optimizely.png`,
-    },
-    {
       id: "launchdarkly",
       name: "LaunchDarkly",
       tag: "frontend",
