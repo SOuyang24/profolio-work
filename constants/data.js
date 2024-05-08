@@ -484,7 +484,7 @@ const userData = {
       company: "Boston Consulting Group",
       year: "2019.4 - Present",
       companyLink: "https://bcg.com",
-      desc: "Led the architectural design and implementation of balance management and money transfer features for a mobile payment app, resulting in averaging 6 million daily active users and 42 million monthly transactions.",
+      desc: "Led the design and implementation of balance management and P2P money transfer features for a mobile payment app for fintech startup SPIN, resulted in 105% yearly user increase across 20,000 convenience stores in Latin America.",
     },
     {
       title: "Founding Engineer",
