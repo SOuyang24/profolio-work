@@ -98,9 +98,9 @@ export default function AboutMe() {
               <h1 className="text-xl font-semibold text-gray-700 dark:text-gray-200">
                 New Opportunities
               </h1>
-              <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
+              {/* <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
                 I'm open for new opportunities, If you see me as a good fit, reach me in <a href={`${userData.linkedin}`}  className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300" target="_blank">Linkedin</a> or <a href={`mailto:${userData.email}`}  className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300" target="_blank">Email</a>. I would love to hear more from your part.
-              </p>
+              </p> */}
             </div>
             {/* Social Links */}
             <h1 className="text-xl font-semibold text-gray-700 mt-8 dark:text-gray-200">
@@ -117,7 +117,7 @@ export default function AboutMe() {
               {userData.socialLinks.twitter && (<SocialLink title="Twitter" link={userData.socialLinks.twitter}  />)}
               {/* github */}
               {/* {userData.socialLinks.github && (<SocialLink title="Github" link={userData.socialLinks.github}  />)} */}
-              {userData.socialLinks.linkedin && (<SocialLink title="Linkedin" link={userData.socialLinks.linkedin}  />)}
+              {/* {userData.socialLinks.linkedin && (<SocialLink title="Linkedin" link={userData.socialLinks.linkedin}  />)} */}
             </div>
           </div>
           {/* Text area */}
